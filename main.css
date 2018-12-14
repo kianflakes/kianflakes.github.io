@@ -19,6 +19,20 @@ body {
     color: darkgray;
 }
 
+#desc {
+    padding-top: 50px;
+    padding-left: 80px;
+}
+
+#desc h3 {
+    font-size: 15px;
+}
+
+#desc h5 {
+    font-size: 10px;
+    color: darkgray;
+}
+
 ul {
     list-style-type: none;
     padding-top: 21px;
